@@ -17,6 +17,9 @@
     },
     "date": {
       "type": "date"
+    },
+    "slug": {
+      "type": "string"
     }
   }
 }
